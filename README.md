@@ -2,8 +2,6 @@
 
 This repository is the project done in the first year at Ensimag. All our code implementations are in the folder implem. The files in the "api" and some of the tests were given and not coded by us. All the files that were not coded by us have in the header the respective credits.
 
-
-
 ![Intro](img/intro.png)
 
 This project focuses on implementing the libei.a library using the provided API. The library allows developers to build custom graphical user interfaces (GUIs) by offering core widget types such as Toplevel, Frame, and Button. It also enables the creation of custom widgets, the registration of button callback functions, and the integration of custom event handlers.
