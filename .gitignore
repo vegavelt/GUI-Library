@@ -1,0 +1,36 @@
+# Default ignored files
+
+# theme and explanation of the project
+Amphi.pdf
+sujet_ig_2.91.pdf
+
+# api provided
+api/
+
+# debug temporary files
+.cmake-build-debug/
+
+# CLion and CMake
+.cmake-build-*/
+.idea
+clion/.idea/codeStyles/
+!clion/.idea
+cmake-build-*/
+clion/cmake-build-debug
+cmake/
+!cmake/README
+build/
+
+# Compiled object files and binaries (not needed)
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+
+# Backup and temporary files
+*~
+*.swp
+.DS_Store
+*.iml
