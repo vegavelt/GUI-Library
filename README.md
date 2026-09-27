@@ -1,6 +1,6 @@
-# Graphical Interaction Project
+# GUI Project
 
-This repository is the project done in the first year at Ensimag. All our code implementations are in the folder implem. The files in the "api" and some of the tests were given and not coded by us. All the files that were not coded by us have in the header the respective credits.
+This repository is the project done at Ensimag. All our code implementations are in the folder implem. The files in the "api" and some of the tests were given and not coded by us. All the files that were not coded by us have in the header the respective credits.
 
 ![Intro](img/intro.png)
 
